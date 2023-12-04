@@ -1,0 +1,21 @@
+git config ==>  هي  أمر يحدد اعدادات المتغيرات تستقبل متغير لتحديد اي من الاعدادات ستستخدم  git config اختصارا 
+command is a function that sets configuration variables.It controls git look and operation
+accepts arguments to specify on which configuration level to operate.
+			
+			=================================================
+
+git int  ==>   github مش  من  local من  repo اختصارا بتعمل 
+simple way to setting up version-controlled system projects without  make a repo
+			
+			=================================================
+
+git remote ==>  مختلفة repos اختصارا بتسمحلك تنشا و تشوف وتحذف الاتصال  ب repos
+command lets you create, view, and delete connections to other repositories.
+
+			=================================================
+
+git Merge ==>   branche   بتعمل دمج لاكثر من merge  اختصارا من اسمها 
+Git marge will help to combine the changes from two or more branches into a single branch
+
+			=================================================
+
